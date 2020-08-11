@@ -13,5 +13,9 @@
 	"banner-text" : "Open-source, fast, easy, anonymous, trustworthy, transparent.",
 	"banner-button-one": "<a href=\"https://explorer.zent.cash\" target=\"_blank\">Explorer</a>",
 	"banner-button-two" : "<a href=\"assets/rsrc/whitepaper/whitepaper-ENG.pdf\" target=\"_blank\">Whitepaper</a>",
+	"footer-stay-updated" : "Don&#39;t miss out, stay updated",
+	"footer-stay-update-subscribe" : "Subscribe",
+	"footer-let-connect" : "Join our Network",
+	"footer-social-donate" : "Help Finance Our Network",
 	"footer-copyright" : "Copyright &copy; 2020 <a class=\"alt-color\" href=\"#\" target=\"_blank\">Zent Cash</a>. All rights Reserved."
 }

@@ -11,7 +11,11 @@
 	"menu-contact" : "Contacto",
 	"banner-titule" : "",
 	"banner-text" : "",
-	"banner-button-one": "<a href=\"https://explorer.zent.cash\" target=\"_blank\">Explorador de Bloques</a>",
+	"banner-button-one": "<a href=\"https://explorer.zent.cash\" target=\"_blank\">Explorador</a>",
 	"banner-button-two" : "<a href=\"assets/rsrc/whitepaper/whitepaper-SPA.pdf\" target=\"_blank\">Papel Blanco</a>",
+	"footer-stay-updated" : "No te lo pierdas, mantente actualizado",
+	"footer-stay-update-subscribe" : "Suscribirse",
+	"footer-let-connect" : "Únase a Nuestra Red",
+	"footer-social-donate" : "Apoye Nuestra Red",
 	"footer-copyright" : "Copyright &copy; 2020 <a class=\"alt-color\" href=\"#\" target=\"_blank\">Zent Cash</a>. Todos los derechos reservados."
 }

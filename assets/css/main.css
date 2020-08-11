@@ -55,6 +55,21 @@ html {
   border-radius: 10px 10px 10px 10px;
   min-width: max-content; }
 
+.textbox {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;}
+
+.textbox-image {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;}
+
+.textbox-image-donation {
+  border-radius: 10px 10px 10px 10px; }
+
 @-ms-viewport {
   width: device-width; }
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {

@@ -1,6 +1,11 @@
 {
 	"lang": "zh",
+	"menu-home" : "家",
 	"banner-button-one": "<a href=\"https://explorer.zent.cash\" target=\"_blank\">Explorer</a>",
 	"banner-button-two" : "<a href=\"assets/rsrc/whitepaper/whitepaper-CHI.pdf\" target=\"_blank\">Whitepaper</a>",
-	"footer-copyright" : "Copyright &copy; 2020 <a class=\"alt-color\" href=\"#\" target=\"_blank\">Zent Cash</a>. All rights Reserved."
+	"footer-stay-updated" : "不要错过，保持最新",
+	"footer-stay-update-subscribe" : "订阅",
+	"footer-let-connect" : "加入我们的网络",
+	"footer-social-donate" : "支持我们的网络",
+	"footer-copyright" : "著作权 &copy; 2020年<a class=\"alt-color\" href=\"#\" target=\"_blank\">Zent Cash</a>. 版权所有。"
 }
