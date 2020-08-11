@@ -45,6 +45,16 @@ html {
   -ms-overflow-style: scrollbar;
   -webkit-tap-highlight-color: transparent; }
 
+.btn-banner {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px; }
+
+.form-control {
+  border-radius: 10px 10px 10px 10px;
+  min-width: max-content; }
+
 @-ms-viewport {
   width: device-width; }
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
@@ -3758,6 +3768,8 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
     padding-right: 0;
     padding-left: 0; } }
 @media (min-width: 992px) {
+  .navbar-hidden {
+    display: none;  }
   .navbar-expand-lg {
     -ms-flex-flow: row nowrap;
     -webkit-flex-flow: row nowrap;
@@ -10800,7 +10812,9 @@ div.timer {
 
 @media (min-width: 768px) {
   .why-card:last-child, .why-card:nth-child(4) {
-    padding-bottom: 0; } }
+    padding-bottom: 0; } 
+  .btn-container-banner {
+      display: inherit; } }
 @media (min-width: 992px) {
   .why__card_wrapr {
     margin: 0 -2em; } }
@@ -11141,7 +11155,6 @@ ul.social {
   background-color: #efefef;
   border: inherit;
   padding: .7rem .75rem;
-  border-radius: 0;
   height: calc(2.35rem + 5px); }
   .form-control:focus {
     background-color: #DDD;

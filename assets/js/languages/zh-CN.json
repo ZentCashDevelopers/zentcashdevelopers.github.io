@@ -1,0 +1,6 @@
+{
+	"lang": "zh",
+	"banner-button-one": "<a href=\"https://explorer.zent.cash\" target=\"_blank\">Explorer</a>",
+	"banner-button-two" : "<a href=\"assets/rsrc/whitepaper/whitepaper-CHI.pdf\" target=\"_blank\">Whitepaper</a>",
+	"footer-copyright" : "Copyright &copy; 2020 <a class=\"alt-color\" href=\"#\" target=\"_blank\">Zent Cash</a>. All rights Reserved."
+}

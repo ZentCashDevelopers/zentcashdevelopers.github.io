@@ -1,0 +1,17 @@
+{
+  "lang": "en",
+  "title-home-website" : "Zent Cash Payment Solutions",
+	"menu-home" : "Home",
+	"menu-why-us" : "Why",
+	"menu-about" : "About",
+	"menu-download" : "Downloads",
+	"menu-roadmap" : "Roadmap",
+	"menu-faq" : "Faq",
+	"menu-legal" : "Legal",
+	"menu-contact" : "Contact",
+	"banner-titule" : "Global Decentralized Payment Network",
+	"banner-text" : "Open-source, fast, easy, anonymous, trustworthy, transparent.",
+	"banner-button-one": "<a href=\"https://explorer.zent.cash\" target=\"_blank\">Explorer</a>",
+	"banner-button-two" : "<a href=\"assets/rsrc/whitepaper/whitepaper-ENG.pdf\" target=\"_blank\">Whitepaper</a>",
+	"footer-copyright" : "Copyright &copy; 2020 <a class=\"alt-color\" href=\"#\" target=\"_blank\">Zent Cash</a>. All rights Reserved."
+}
