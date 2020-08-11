@@ -128,7 +128,7 @@ $(document).ready(function(){
   });
   
 
-/*--------------------------------- 5.Mail Fucntion -------------------------------*/
+/*--------------------------------- 5.Mail Function -------------------------------*/
 $(function() {
     var form = $('#ajax-contact');
     var formMessages = $('#form-messages');

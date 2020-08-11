@@ -50,8 +50,8 @@
 
 /*------------------ Banner section Color css ----------------*/
 .banner {
-  background: url(../images/common-bg1.png) center center/cover, -webkit-linear-gradient(45deg, #011a27 0%, #063852 100%);
-  background: url(../images/common-bg1.png) center center/cover, linear-gradient(45deg, #011a27 0%, #063852 100%); }
+  background: url(../../assets/img/backgrounds/common-bg1.png) center center/cover, -webkit-linear-gradient(45deg, #011a27 0%, #063852 100%);
+  background: url(../../assets/img/backgrounds/common-bg1.png) center center/cover, linear-gradient(45deg, #011a27 0%, #063852 100%); }
 
 .timer-box {
   background: -webkit-linear-gradient(45deg, rgba(1, 26, 39, 0.7) 0%, rgba(6, 56, 82, 0.8) 100%);
@@ -71,8 +71,8 @@ div.timer span {
 
 /*------------------ Problem / Soluction section Color css ----------------*/
 .linear-gradient-bg {
-  background-image: url(../images/common-bg.png), -webkit-linear-gradient(0deg, rgba(1, 26, 39, 0.8) 50%, rgba(6, 56, 82, 0.8) 50%);
-  background-image: url(../images/common-bg.png), linear-gradient(90deg, rgba(1, 26, 39, 0.8) 50%, rgba(6, 56, 82, 0.8) 50%);
+  background-image: url(../../assets/img/backgrounds/common-bg.png), -webkit-linear-gradient(0deg, rgba(1, 26, 39, 0.8) 50%, rgba(6, 56, 82, 0.8) 50%);
+  background-image: url(../../assets/img/backgrounds/common-bg.png), linear-gradient(90deg, rgba(1, 26, 39, 0.8) 50%, rgba(6, 56, 82, 0.8) 50%);
   background-size: cover; }
 
 /*------------------ Team Color css ----------------*/
@@ -119,8 +119,8 @@ ul.social {
 
 /*------------------ Footer Color css ----------------*/
 .footer {
-  background: url(../images/common-bg.png), -webkit-linear-gradient(135deg, #063852 0%, #011a27 100%);
-  background: url(../images/common-bg.png), linear-gradient(315deg, #063852 0%, #011a27 100%);
+  background: url(../../assets/img/backgrounds/common-bg.png), -webkit-linear-gradient(135deg, #063852 0%, #011a27 100%);
+  background: url(../../assets/img/backgrounds/common-bg.png), linear-gradient(315deg, #063852 0%, #011a27 100%);
   background-size: cover; }
 
 /*------------------ Preloader Color css ----------------*/
