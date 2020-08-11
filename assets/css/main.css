@@ -61,14 +61,55 @@ html {
   padding-top: 10px;
   padding-bottom: 10px;}
 
+.textbox-title {
+  line-height: 3;
+  font-weight: 700;
+  text-transform: uppercase; }
+
+.textbox-title-download {
+  text-align: center;
+  font-size: xx-large; }
+
+.textbox-subtitle {
+  line-height: 2;
+  font-weight: 550; }  
+
+.textbox-subtitle-download {
+  text-align: center;
+  font-size: x-large; }
+
 .textbox-image {
   padding-left: 10px;
   padding-right: 10px;
   padding-top: 10px;
   padding-bottom: 10px;}
 
+.textbox-image-download {
+  text-align: center;
+}  
+
 .textbox-image-donation {
   border-radius: 10px 10px 10px 10px; }
+
+.textbox-description-download {
+  text-align: center;
+  line-height: 4;
+  font-weight: 700;
+  font-size: x-large; }
+  
+.process-icons-download {
+  width: 40%; }
+
+#download-apple, #download-windows, #download-linux, #download-android {
+  border: 2px solid #695940;  }
+
+.downloads-apple, .downloads-windows, .downloads-linux, .downloads-android {
+  padding-top: 25%;
+  padding-bottom: 37%;
+  display: none; }   
+
+.downloads-android {
+  margin-bottom: -7%; }
 
 @-ms-viewport {
   width: device-width; }
