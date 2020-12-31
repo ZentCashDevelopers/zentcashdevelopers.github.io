@@ -1,9 +1,3 @@
-/*!
- * Bootstrap v4.1.3 (https://getbootstrap.com/)
- * Copyright 2011-2018 The Bootstrap Authors
- * Copyright 2011-2018 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -98,7 +92,8 @@ html {
   font-size: x-large; }
   
 .process-icons-download {
-  width: 40%; }
+  width: 68%;
+}
 
 #download-apple, #download-windows, #download-linux, #download-android {
   border: 2px solid #695940;  }
@@ -110,6 +105,82 @@ html {
 
 .downloads-android {
   margin-bottom: -7%; }
+
+.lenguage.locale-switcher {
+    position: fixed;
+    display: inline-grid;
+    right: 2%;
+    bottom: 2%;
+    z-index: 10000;
+    transition: all .5s;
+    color: #FFFFFF;
+    background: #ae49b3;
+    opacity: 0.95;
+    width: 70px;
+    text-align: center;
+    border: 2px solid rgb(255 255 255 / 45%);
+    border-bottom-right-radius: 18%;
+    border-bottom-left-radius: 18%;
+}
+
+.lenguage.locale-switcher a.dropdown-item-alt:hover {
+    background: rgb(255 255 255 / 45%);
+}
+
+.dropdown-menu-alt {
+  display: none;
+  position: absolute;
+  background-color: rgb(196 78 202);
+  color: #FFFFFF;
+  min-width: 70px;
+  margin: -2px;
+  bottom: 37px;
+  z-index: 99999;
+  border: 1px solid rgb(255, 255, 255, 0.45);
+}
+
+.dropdown-menu-alt a {
+    display: block;
+    border: 0.5px solid rgb(255 255 255 / 75%);
+    font-weight: 700;
+    color: #f9f4f9;
+}
+
+.lenguage.locale-switcher:hover .dropdown-menu-alt {
+    display: inline-grid;
+}
+
+#gdpr {
+  position: fixed;
+  z-index: 999;
+  bottom: 0%;
+  max-width: 35%;
+  background: aliceblue;
+  border-top: 2px solid #000;
+  border-right: 2px solid #000;
+  border-top-right-radius: 10px;
+  box-shadow: 4px 0px 25px #000000c2;
+}
+
+.gdpr-message {
+  margin-left: 7px;
+  margin-right: 7px;
+  margin-top: 7px;
+  margin-bottom: 7px;
+  text-align: center;
+  display: grid;
+}
+
+.gdpr-buttons {
+  text-align: center;
+  margin-top: 7px;
+  margin-bottom: 7px;
+}
+
+.gdpr-button {
+    border-radius: 10%;
+    background: burlywood;
+}
 
 @-ms-viewport {
   width: device-width; }
@@ -1852,7 +1923,13 @@ pre code {
     -ms-overflow-style: -ms-autohiding-scrollbar; }
 
   .table-responsive-lg > .table-bordered {
-    border: 0; } }
+    border: 0; }
+
+  #gdpr {
+    max-width: 80%;
+  }
+  
+}
 @media (max-width: 1199.98px) {
   .table-responsive-xl {
     display: block;
@@ -11451,6 +11528,9 @@ ul.social {
     font-size: 1.1rem; } }
 /*Extra small devices */
 @media (max-width: 480px) {
+  #gdpr {
+    max-width: 70%; }
+    
   .w-50 {
     width: 100% !important; }
 

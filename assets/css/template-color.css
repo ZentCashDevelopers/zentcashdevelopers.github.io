@@ -30,9 +30,13 @@
 
 /*------------------ Button Color css ----------------*/
 .btn-alpha {
-  background-color: #dcb945; }
-  .btn-alpha:hover {
-    background-color: #87238c; }
+  background-color: #dcb945; 
+  border: 2px solid #dcb945;
+}
+.btn-alpha:hover {
+  background-color: #87238c;
+  border: 2px solid#87238c;
+}
 
 .section-heading {
   border-left: 4px solid #dcb945; }
