@@ -10721,16 +10721,22 @@ strong {
   position: fixed;
   width: 100%;
   z-index: 999; }
-  .navbar .nav-item-divider {
-    display: block; }
-    .navbar .nav-item-divider .nav-link > span {
-      border-left: 3px solid #fff; }
+.navbar .nav-item-divider {
+  display: block;
+ }
+.navbar .nav-item-divider .nav-link > span {
+  border-left: 3px solid #fff; 
+}
 
 .navbar .nav-item {
-  margin-left: 0.4em; }
-  .navbar .nav-item a {
+  margin-left: 0.4em;
+  text-transform: uppercase;
+}
+  
+.navbar .nav-item a {
     color: #fff !important;
-    font-weight: 500; }
+    font-weight: 500; 
+}
 
 .navbar-toggler {
   width: 1.8em;
